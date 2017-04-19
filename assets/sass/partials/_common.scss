@@ -1,0 +1,14 @@
+.learn{
+
+	color:white;
+	border:none;
+	background:#FE6500;
+	border-radius:5px;
+	padding:15px;
+	transition: all .4s ease;
+	font-weight: bold;
+	margin-top: 15px;
+	&:hover{
+		background:#CB5100;
+	}
+}
