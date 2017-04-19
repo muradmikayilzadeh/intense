@@ -2,6 +2,7 @@ $(document).ready(function() {
 
 	var a=false;
 
+
 	$('#mmw').height($(window).height())
 
 	$('.fa-bars').click(function(event) {
