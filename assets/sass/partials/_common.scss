@@ -1,7 +1,6 @@
 .learn{
 
 	color:white;
-	border:none;
 	background:#FE6500;
 	border-radius:5px;
 	padding:15px;
@@ -10,5 +9,7 @@
 	margin-top: 15px;
 	&:hover{
 		background:#CB5100;
+		text-decoration: none;
+		color:white;
 	}
 }
